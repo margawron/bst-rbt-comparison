@@ -1,1 +1,1 @@
-Program mierzący różnicę w implementacji drzewa binarnego i czerwono-czarnego
+Program mierzący różnicę wydajności drzewa binarnego i czerwono-czarnego
